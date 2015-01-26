@@ -1,7 +1,7 @@
 This container requires the volumes from two other containers:
 
-  -MCR Data
-  -Pretrained Data
+  - MCR Data
+  - Pretrained Data
 
 For example, if you have started the above containers:
 ```bash
