@@ -1,7 +1,7 @@
 This container requires the volumes from two other containers:
 
   - [MCR Data ] (https://github.com/VISIONAI/docker-mcr-2014a)
-  - Pretrained Data
+  - [Pretrained Data] (https://github.com/VISIONAI/docker-vmx-data-c)
 
 For example, if you have started the above containers:
 ```bash
